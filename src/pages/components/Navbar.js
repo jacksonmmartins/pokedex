@@ -13,7 +13,7 @@ export default function Navbar(){
                     <Link href='/'legacyBehavior>Home</Link>
                 </li>
                 <li>
-                    <Link href='/about'legacyBehavior>Sobre</Link>
+                    <Link href='/sobre'legacyBehavior>Sobre</Link>
                 </li>
             </ul>
         </nav>
